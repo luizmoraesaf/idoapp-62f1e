@@ -23,7 +23,7 @@ header:
 footer:
   has_nav: true
   nav_links:
-    - label: Contact Us
+    - label: Fale conosco
       url: /contact
       style: link
     - label: Privacy and Terms
