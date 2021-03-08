@@ -16,7 +16,7 @@ sections:
     background:
       background_color: gray
       background_image: images/successful-zucchini.jpg
-      background_image_opacity: 20
+      background_image_opacity: 30
       background_image_size: auto
       background_image_repeat: repeat
     title: Facilitando a vida dos idosos
