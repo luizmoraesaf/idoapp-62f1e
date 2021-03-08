@@ -6,7 +6,7 @@ sections:
       - label: Saber mais
         url: /features
         style: primary
-      - label: Fale Conosco
+      - label: Fale conosco
         url: /contact
         style: secondary
     align: left
