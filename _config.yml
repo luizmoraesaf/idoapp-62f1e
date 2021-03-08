@@ -26,7 +26,7 @@ footer:
     - label: Fale conosco
       url: /contact
       style: link
-    - label: Privacy and Terms
+    - label: Termos e Privacidade
       url: /terms
       style: link
   has_social: true
