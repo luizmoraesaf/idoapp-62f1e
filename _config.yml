@@ -20,7 +20,6 @@ header:
     - label: Contact Us
       url: /contact
       style: primary
-  logo: images/ido-preto.svg
 footer:
   has_nav: true
   nav_links:
