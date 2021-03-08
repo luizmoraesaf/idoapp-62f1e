@@ -6,7 +6,7 @@ sections:
       - label: Saber mais
         url: /features
         style: primary
-      - label: Contact Us
+      - label: F
         url: /contact
         style: secondary
     align: left
