@@ -8,7 +8,7 @@ header:
   title: IdoApp
   has_nav: true
   nav_links:
-    - label: Features
+    - label: Diferenciais
       url: /features
       style: link
     - label: Blog
