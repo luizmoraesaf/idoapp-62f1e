@@ -71,3 +71,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://idoapp-62f1e.netlify.app'
