@@ -24,7 +24,7 @@ sections:
       Contribuindo para melhorar a vida dos adultos mais velhos e de todos
       aqueles que convivem com eles.
   - type: features_section
-    title: Features
+    title: Diferenciais
     features:
       - title: Feature 1
         content: >-
