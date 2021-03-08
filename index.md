@@ -21,6 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: Facilitando a vida dos idosos
+    subtitle: ' contribuir para melhorar a vida dos adultos mais velhos e de todos aqueles que convivem com eles'
   - type: features_section
     title: Features
     features:
