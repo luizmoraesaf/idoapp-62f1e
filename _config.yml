@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 header:
-  title: IdoApp
+  title: Ido
   has_nav: true
   nav_links:
     - label: Diferenciais
