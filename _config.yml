@@ -20,6 +20,7 @@ header:
     - label: Login
       url: /contact
       style: primary
+  logo: images/Ido-Azul@vetor.svg
 footer:
   has_nav: true
   nav_links:
