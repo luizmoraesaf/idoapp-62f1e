@@ -54,10 +54,10 @@ sections:
             url: /features
             style: secondary
       - title: HUB de Informações
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Matérias, minicursos, leituras sobre **bem-estar**, **saúde** e
+          **autoconhecimento**, recomendadas de acordo com suas
+          **preferências**.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
