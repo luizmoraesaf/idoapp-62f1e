@@ -8,7 +8,7 @@ header:
   title: Ido
   has_nav: true
   nav_links:
-    - label: Diferenciais
+    - label: Nossas Soluções
       url: /features
       style: link
     - label: Blog
