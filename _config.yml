@@ -17,7 +17,7 @@ header:
     - label: Sobre
       url: /about
       style: link
-    - label: Contact Us
+    - label: Login
       url: /contact
       style: primary
 footer:
