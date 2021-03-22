@@ -21,8 +21,9 @@ sections:
       background_image_repeat: repeat
     title: 'Informar, conectar e efetivar'
     subtitle: >-
-      Contribuindo para melhorar a vida dos adultos mais velhos e de todos
-      aqueles que convivem com eles.
+      Somos uma plataforma digital que desenvolve a autonomia da população 60+
+      em diversas áreas, através da disponibilização de soluções que permitem o
+      enfrentamento de situações-problema, tornando a vida mais simples!
   - type: features_section
     title: Diferenciais
     features:
