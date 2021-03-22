@@ -44,7 +44,7 @@ footer:
       url: 'https://www.linkedin.com/'
       style: link
       new_window: true
-  content: Este site foi criado por
+  content: Este site foi criado por LeGData
 sass:
   indentWidth: 4
   style: compressed
