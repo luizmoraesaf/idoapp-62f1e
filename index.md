@@ -25,7 +25,7 @@ sections:
       em diversas áreas, através da disponibilização de soluções que permitem o
       enfrentamento de situações-problema, tornando a vida mais simples!
   - type: features_section
-    title: Diferenciais
+    title: Nossas Soluções
     features:
       - title: Feature 1
         content: >-
