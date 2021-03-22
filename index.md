@@ -19,7 +19,7 @@ sections:
       background_image_opacity: 30
       background_image_size: auto
       background_image_repeat: repeat
-    title: Facilitando a vida dos idosos
+    title: 'Informar, conectar e efetivar'
     subtitle: >-
       Contribuindo para melhorar a vida dos adultos mais velhos e de todos
       aqueles que convivem com eles.
