@@ -5,19 +5,11 @@ sections:
     title: Quem somos
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+    content: >
+      Os fundadores do Ido compõem um time multidisciplinar orientado pelo ideal
+      de redução das desigualdades e promoção da inclusão da população com idade
+      igual ou superior a 60 anos. A efetivação de direitos e garantias
+      fundamentais é o fio condutor das ações da equipe.
   - type: team_section
     title: Nosso Time
     team:
