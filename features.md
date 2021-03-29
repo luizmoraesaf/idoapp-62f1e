@@ -17,10 +17,7 @@ sections:
             url: /about
             style: primary
       - title: Jornada para resolução de situações
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "Propósito de jornadas inteligentes que possibilitam que o usuário tenha acesso a\_**informação**\_específica sobre determinado problema/questionamento podendo efetivar sua\_**solução**\_através do cumprimento de um passo-a-passo\_**simples**\_e\_**dinâmico**.\n"
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
