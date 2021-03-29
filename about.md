@@ -11,7 +11,6 @@ sections:
       igual ou superior a 60 anos. A efetivação de direitos e garantias
       fundamentais é o fio condutor das ações da equipe.
   - type: team_section
-    title: Nosso Time
     team:
       - _data/team/miles-tone.yaml
       - _data/team/dianne-ameter.yaml
