@@ -1,21 +1,21 @@
 {% assign section = include.section %}
 <section class="section section--team">
 
-  {% assign title_is_not_empty = section.title | is_not_empty %}
-  {% if title_is_not_empty %}
-  <div class="container container--md align-center">
-    <h2 class="section__title">{{ section.title }}</h2>
-  </div>
-  {% endif %}
+    {% assign title_is_not_empty = section.title | is_not_empty %}
+    {% if title_is_not_empty %}
+    <div class="container container--md align-center">
+        <h2 class="section__title">{{ section.title }}</h2>
+    </div>
+    {% endif %}
 
-  <div class="container container--lg">
-    <div class="flex flex--col-3">
+    <div class="container container--lg">
+        <div class="flex flex--col-3">
 
-        <figure class="card__media card__media--bottom">
-            <img src="{{ person_data.photo | relative_url }}" alt="{{ person_data.photo_alt }}" />
-          </figure>
+            <figure class="card__media card__media--bottom">
+                <img src="{{ person_data.photo | relative_url }}" alt="{{ person_data.photo_alt }}" />
+            </figure>
 
-      <!-- {% for person in section.team %}
+            <!-- {% for person in section.team %}
       {% assign person_data = person | get_data %}
       <div class="cell">
         <div class="card team-member">
@@ -40,7 +40,7 @@
       </div>
       {% endfor %} -->
 
+        </div>
     </div>
-  </div>
 
 </section>
