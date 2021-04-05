@@ -9,7 +9,7 @@ sections:
       - title: Saúde - Medicamentos
         content: "O Ido oferece uma solução de gestão e controle de medicamentos\_**ágil**\_e\_**descomplicada**.\n"
         align: left
-        image: images/feature.svg
+        image: images/medicamentos.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
