@@ -32,7 +32,7 @@ sections:
           O Ido oferece uma solução de gestão e controle de medicamentos
           **ágil** e **descomplicada**.
         align: left
-        image: images/feature.svg
+        image: images/medicamentos.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
