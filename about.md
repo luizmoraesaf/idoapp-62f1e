@@ -10,13 +10,6 @@ sections:
       de redução das desigualdades e promoção da inclusão da população com idade
       igual ou superior a 60 anos. A efetivação de direitos e garantias
       fundamentais é o fio condutor das ações da equipe.
-  - type: team_section
-    team:
-      - _data/team/miles-tone.yaml
-      - _data/team/dianne-ameter.yaml
-      - _data/team/eleanor-carr.yaml
-      - _data/team/hanson-deck.yaml
-      - _data/team/gordon-norman.yaml
 seo:
   title: Who We Are
   description: This is the about us page
