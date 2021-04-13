@@ -73,6 +73,9 @@ sections:
       igual ou superior a 60 anos. A efetivação de direitos e garantias
       fundamentais é o fio condutor das ações da equipe.
     type: content_section
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
