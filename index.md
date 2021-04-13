@@ -66,7 +66,7 @@ sections:
           - label: Saber Mais
             url: /features
             style: secondary
-  - title: Sobre Nós
+  - title: Sobre
     content: >-
       ## Lorem ipsum
 
