@@ -11,9 +11,6 @@ header:
     - label: Nossas Soluções
       url: /features
       style: link
-    - label: Sobre
-      url: /about
-      style: link
     - label: Quem somos
       url: /contact
       style: primary
