@@ -66,9 +66,6 @@ sections:
           - label: Saber Mais
             url: /features
             style: secondary
-  - title: Sobre
-    team: []
-    type: team_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
