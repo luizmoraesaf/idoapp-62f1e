@@ -67,17 +67,11 @@ sections:
             url: /features
             style: secondary
   - title: Quem somos
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Os fundadores do Ido compõem um time multidisciplinar orientado pelo ideal
+      de redução das desigualdades e promoção da inclusão da população com idade
+      igual ou superior a 60 anos. A efetivação de direitos e garantias
+      fundamentais é o fio condutor das ações da equipe.
     type: content_section
 seo:
   title: Stackbit Starter Theme
