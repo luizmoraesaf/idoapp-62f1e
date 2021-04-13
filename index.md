@@ -75,7 +75,7 @@ sections:
     type: content_section
   - team: []
     type: team_section
-  - title: lorem-ipsum
+  - title: Fale conosco
     content: >-
       ## Lorem ipsum
 
