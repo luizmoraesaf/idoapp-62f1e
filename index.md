@@ -67,8 +67,7 @@ sections:
             url: /features
             style: secondary
   - title: Sobre
-    team:
-      - _data/team/person-8ww48aekd.json
+    team: []
     type: team_section
 seo:
   title: Stackbit Starter Theme
