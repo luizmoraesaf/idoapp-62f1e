@@ -66,7 +66,7 @@ sections:
           - label: Saber Mais
             url: /features
             style: secondary
-  - title: lorem-ipsum
+  - title: Sobre
     team: []
     type: team_section
 seo:
