@@ -11,9 +11,6 @@ header:
     - label: Nossas Soluções
       url: /features
       style: link
-    - label: Quem somos
-      url: /contact
-      style: primary
   logo: images/Ido-Azul.png
 footer:
   has_nav: true
