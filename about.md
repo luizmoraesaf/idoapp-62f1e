@@ -10,6 +10,9 @@ sections:
       de redução das desigualdades e promoção da inclusão da população com idade
       igual ou superior a 60 anos. A efetivação de direitos e garantias
       fundamentais é o fio condutor das ações da equipe.
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 seo:
   title: Who We Are
   description: This is the about us page
