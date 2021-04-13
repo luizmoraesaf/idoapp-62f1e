@@ -11,6 +11,12 @@ header:
     - label: Nossas Soluções
       url: /features
       style: link
+    - label: lorem-ipsum
+      url: '#'
+      style: link
+      new_window: false
+      no_follow: false
+      type: action
   logo: images/Ido-Azul.png
 footer:
   has_nav: true
