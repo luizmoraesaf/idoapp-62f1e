@@ -14,7 +14,7 @@ header:
     - label: Sobre
       url: /about
       style: link
-    - label: Login
+    - label: Quem somos
       url: /contact
       style: primary
   logo: images/Ido-Azul.png
