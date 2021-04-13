@@ -75,7 +75,6 @@ sections:
     type: content_section
   - team: []
     type: team_section
-  - type: contact_section
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
@@ -89,6 +88,7 @@ sections:
 
       - dolor sit amet
     type: content_section
+  - type: contact_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
