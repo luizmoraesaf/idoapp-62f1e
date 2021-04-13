@@ -75,19 +75,6 @@ sections:
     type: content_section
   - team: []
     type: team_section
-  - title: Fale conosco
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
   - type: contact_section
 seo:
   title: Stackbit Starter Theme
