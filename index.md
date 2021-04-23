@@ -6,6 +6,7 @@ sections:
       - label: Login
         url: 'https://idoapp.com.br/idoapp/'
         style: primary
+        new_window: true
       - label: Fale conosco
         url: /contact
         style: secondary
