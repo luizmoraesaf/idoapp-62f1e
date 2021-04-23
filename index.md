@@ -77,7 +77,6 @@ sections:
   - team: []
     type: team_section
   - type: contact_section
-  - type: contact_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
