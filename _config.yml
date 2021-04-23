@@ -12,7 +12,7 @@ header:
       url: /features
       style: link
     - label: Login
-      url: '#https://idoapp.com.br/idoapp/'
+      url: 'https://idoapp.com.br/idoapp/'
       style: primary
       new_window: false
       no_follow: false
