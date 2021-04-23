@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Saber mais
+      - label: Login
         url: /features
         style: primary
       - label: Fale conosco
