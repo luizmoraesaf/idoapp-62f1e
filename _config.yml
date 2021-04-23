@@ -8,9 +8,6 @@ header:
   title: Ido
   has_nav: true
   nav_links:
-    - label: Nossas Soluções
-      url: /features
-      style: link
     - label: Login
       url: 'https://idoapp.com.br/idoapp/'
       style: primary
