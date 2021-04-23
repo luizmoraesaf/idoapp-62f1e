@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: Login
-        url: /features
+        url: 'https://idoapp.com.br/idoapp/'
         style: primary
       - label: Fale conosco
         url: /contact
